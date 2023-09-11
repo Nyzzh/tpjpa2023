@@ -1,7 +1,5 @@
 package jpa;
 import java.util.List;
-import jpa.Department;
-import jpa.Employee;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityTransaction;
 public class JpaTest {
