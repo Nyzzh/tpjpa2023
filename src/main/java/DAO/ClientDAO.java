@@ -5,6 +5,7 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.Query;
 import java.util.List;
 
+//Classe DAO pour la classe Client
 public class ClientDAO {
     private EntityManager entityManager;
 

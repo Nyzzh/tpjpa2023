@@ -58,6 +58,8 @@ public class User {
         this.email = email;
     }
 
+    //ici on sépare prendre des rendez vous en tant que client et en tant que professionel car une même personne peut à
+    //la fois être professionel et prendre un rendez vous.
     public List<Rdv> getRdvsEnTantQueClient() {
         return rdvsEnTantQueClient;
     }

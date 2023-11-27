@@ -5,6 +5,7 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.Query;
 import java.util.List;
 
+//Classe DAO pour la classe Professionel
 public class ProDAO {
     private EntityManager entityManager;
 

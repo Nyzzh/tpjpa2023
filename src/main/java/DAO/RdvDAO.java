@@ -5,6 +5,7 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.Query;
 import java.util.List;
 
+//Classe DAO pour la classe Rendez-Vous
 public class RdvDAO {
     private EntityManager entityManager;
 
